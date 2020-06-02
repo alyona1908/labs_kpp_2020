@@ -1,5 +1,5 @@
 # labs_kpp_2020
-<!-- lab_1// Task #1. Check the user
+ lab_1// Task #1. Check the user
 Write the code which verify user rights.
 
 Step 1. Check login
@@ -41,7 +41,7 @@ Step 3:
 	Each time you ask user to enter a number you should show him a range of cells, how much attempts he has left, his total prize and possible prize on current attempt. See Figure 1: -->
 
  
-<!-- lab_2// Task #1. Check the user
+lab_2// Task #1. Check the user
 Write the code which verify user rights.
 
 Step 1. Check login
@@ -80,5 +80,5 @@ Step 3:
 	If user did guess - Show the message ‘Congratulation, you won!   Your prize is: … $. Do you want to continue?’.
 	If user does not want to continue – show the message ‘Thank you for your participation. Your prize is: … $’ (Use alert) and ask if he wants to play again (use confirm).
 	If user does want to continue, make number range bigger at 5 as the previous one (for example [0; 5] -> [0; 10]), and two times bigger maximum prize (for example on 1-st attempt prize will be 200$, 2-nd attempt – 100$, 3-rd attempt – 50$). Prize must be added to the previous one and number of attempts should be set to 3 (user should have 3 attempts to guess a number for each numbers range)
-	Each time you ask user to enter a number you should show him a range of cells, how much attempts he has left, his total prize and possible prize on current attempt. See Figure 1: -->
+	Each time you ask user to enter a number you should show him a range of cells, how much attempts he has left, his total prize and possible prize on current attempt. 
 
